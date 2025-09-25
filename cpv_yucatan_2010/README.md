@@ -2,8 +2,8 @@
 
 ## Descripción del Proyecto
 
-Este repositorio contiene el proceso de limpieza, procesamiento y análisis de
-datos (`Data Processing & Analysis`) aplicado a un conjunto de datos del censo
+Este proyecto contiene el proceso de limpieza, procesamiento y análisis de datos
+(`Data Processing & Analysis`) aplicado a un conjunto de datos del censo
 poblacional de viviendas en el estado de Yucatán, correspondiente al año 2010.
 
 ## Objetivo del Análisis
